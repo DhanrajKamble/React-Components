@@ -16,8 +16,6 @@ export default Heading;
 
 // You can import it with any name.
 // Example:
-// javascript
-// Copy code
 // export default Heading;
 
 // import MyComponent from "./Heading"; // Allowed
@@ -25,8 +23,6 @@ export default Heading;
 
 // You must use the same name when importing or use as to alias.
 // Example:
-// javascript
-// Copy code
 // export function Heading() { ... }
 
 // import { Heading } from "./Heading"; // Must match the name
